@@ -1,0 +1,2 @@
+home_title "Bienvenue chez Holberton"
+home_header "Bonjour monde!"
